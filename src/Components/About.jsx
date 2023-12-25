@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a CS student studying at University of Oslo. I enjoy creating unique applications and learning cloud solutions to create.";
+  "I'm a CS student studying at University of Oslo. I enjoy creating unique applications and learning cloud solutions for innovation.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
